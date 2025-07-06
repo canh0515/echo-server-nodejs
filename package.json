@@ -1,0 +1,25 @@
+{
+  "name": "echo-server-nodejs",
+  "version": "1.0.0",
+  "description": "echo-server-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canh0515/echo-server-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canh0515/echo-server-nodejs/issues"
+  },
+  "homepage": "https://github.com/canh0515/echo-server-nodejs#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "http-proxy": "^1.18.1",
+    "ws": "^8.18.3"
+  }
+}
