@@ -1,2 +1,2 @@
-# echo-server-nodejs
-echo-server-nodejs
+# Echo Server Rabbit
+Là dự án nhỏ của Thỏ Sợ Hãi.
